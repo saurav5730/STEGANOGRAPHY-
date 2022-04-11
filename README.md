@@ -12,6 +12,7 @@ to the user regarding the choice of cover file they want
 to use, but also use encryption to protect the files from
 third-parties, hence ensuring both convenience and
 privacy.
+
 In this project we will first design some algorithms which
 will help us in implementing the image and audio
 steganography. These algorithms will be discussed
