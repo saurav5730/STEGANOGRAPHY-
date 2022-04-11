@@ -26,3 +26,5 @@ database and also will help the user to upload their text,
 images and audio files. Django will also perform the
 CSRF Tokens which will prevent the Cross Site Request
 Forgery (CSRF) and will keep the data our users secure.
+
+![image](https://user-images.githubusercontent.com/103409230/162788952-cde778bd-3cc5-42ec-acdb-dced1df5380a.png)
