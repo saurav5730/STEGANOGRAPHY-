@@ -1,8 +1,5 @@
 # STEGANOGRAPHY-
-Steganography is a popular technique which refers to
-hiding of data within some form of other ordinary, plain
-file, be it in text, image, audio or video file. Our project is
-based on implementing the various aspects of
+Steganography is a popular technique which refers to hiding of data within some form of other ordinary, plain file, be it in text, image, audio or video file. Our project is based on implementing the various aspects of
 steganography to help those people who do not have a
 technical background or sound knowledge about this
 subject. The applications of steganography are wide and
